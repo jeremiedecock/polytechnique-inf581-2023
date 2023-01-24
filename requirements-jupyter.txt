@@ -1,0 +1,8 @@
+gym
+imageio
+jupyterlab
+numpy
+pandas
+seaborn
+nnfigs
+inf581
