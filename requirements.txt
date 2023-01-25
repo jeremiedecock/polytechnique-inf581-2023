@@ -1,4 +1,5 @@
 gym
+gymnasium
 imageio
 numpy
 pandas
