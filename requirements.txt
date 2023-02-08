@@ -1,8 +1,12 @@
-gym
 gymnasium
 imageio
+inf581==1.0.3
+ipython
+ipywidgets
+nnfigs
 numpy
 pandas
+pygame
 seaborn
-nnfigs
-inf581
+torch
+tqdm
