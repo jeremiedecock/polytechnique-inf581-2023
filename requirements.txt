@@ -1,4 +1,4 @@
-gymnasium
+gymnasium[box2d]
 imageio
 inf581==1.0.3
 ipython
