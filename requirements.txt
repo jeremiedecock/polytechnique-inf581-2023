@@ -1,7 +1,7 @@
 cma
 gymnasium[box2d]
 imageio
-inf581==1.0.3
+inf581==1.0.4
 ipython
 ipywidgets
 nnfigs
